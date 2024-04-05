@@ -23,7 +23,7 @@ GITHUB: True
 # 程序设置
 MODE: "2"
 SEAT_ID:
-  - 7195
-  - 7200
+  - 7592
+  - 7615
 DATE: "tomorrow"
-CLASSROOMS_NAME: 西校区图书馆-三层自习室
+CLASSROOMS_NAME: 西校区图书馆-五层自习室
